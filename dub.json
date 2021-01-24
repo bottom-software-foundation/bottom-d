@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"ncplayz"
+	],
+	"copyright": "Copyright © 2021, ncplayz",
+	"description": "Bottomify in D",
+	"license": "MIT",
+	"name": "bottomify"
+}
